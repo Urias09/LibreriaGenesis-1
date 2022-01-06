@@ -57,7 +57,7 @@
   								</label>
 							</div>
 					</div>
-					<button type="submit" class="btn btn-primary">Generar Comprobante<img src="./public/imagenes/guardar.png" height="40" width="40" onclick=""></button>
+					<button type="submit" class="btn btn-primary">Generar Comprobante<img src="./public/imagenes/guardar.png" height="40" width="40" onclick=""  class="rounded-circle"></button>
 				   </form>
 			       
 			</div>
