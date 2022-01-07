@@ -14,7 +14,9 @@
 				</div>
 			</div>
 		</div>
+		
 		<!-- end page title end breadcrumb -->
+		
 		<div class="row">
 			<div class="col-md-4" class="row1" id="row1">
 				<h1>Formulario Usuario</h1>
